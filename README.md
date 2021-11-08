@@ -1,6 +1,6 @@
 # Hi!
 ### My name is Sebastian Fuentes
-### I'm currently a studying computer science/computer engineering at UTFSM Chile
+### I'm currently a studying computer science/software engineering at UTFSM Chile
 ### About me:
 Currently i'm interested on web design, i have basic knowledge on front end development and i'm interested on back end development aswell
 although i dont consider myself as knowledgeable on any technology, the ones i have worked with in the past and have small knowledge about are as follow:
